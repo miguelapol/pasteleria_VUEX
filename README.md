@@ -1,4 +1,4 @@
-<h1>Pasteleria VUEX<h1>
+<h1>Pasteleria VUEX</h1>
 aqui se veran las partes creadas 
   <br>
   <p>Página Home</p>
